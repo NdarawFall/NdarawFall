@@ -1,127 +1,56 @@
-<div align="center">
-
 # Ndaraw Fall
 
-### Développeur Front-End · Graphic Designer
+### Développeur Front-End · UI/UX Designer
 
-Je conçois des interfaces modernes et des expériences digitales en combinant **développement web, UI/UX et design graphique**.
+Je suis un développeur Front-End et UI/UX Designer passionné par la création d'interfaces **modernes, intuitives et soignées**.
 
-<br>
+J'aime travailler à la rencontre du **design et du développement**, en transformant des idées et des maquettes en expériences web fonctionnelles et responsives.
 
-<a href="https://github.com/NdarawFall">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
+Je m'intéresse particulièrement aux **SaaS, applications web et interfaces interactives**, avec une attention portée à l'expérience utilisateur, aux détails visuels et aux animations.
 
 ---
 
-## 👨‍💻 À propos
+## 🛠️ Compétences
 
-Je suis développeur orienté **Front-End** et graphic designer, passionné par la création de produits numériques modernes, fonctionnels et visuellement soignés.
+### Development
 
-Mon travail se concentre principalement sur :
-
-* 🖥️ Développement d'interfaces web
-* 🎨 UI/UX & Graphic Design
-* ✨ Animations et interactions web
-* 📱 Interfaces responsives
-* 🚀 Création de produits et expériences digitales
-
----
-
-## 🛠️ Technologies & outils
-
-### Développement
-
-<div align="left">
-
-<img src="https://cdn.simpleicons.org/angular/DD0031" width="45" height="45" alt="Angular">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="45" height="45" alt="Next.js">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="45" height="45" alt="TypeScript">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" height="45" alt="Tailwind CSS">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/gsap/88CE02" width="45" height="45" alt="GSAP">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git">
-
-</div>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/angular/DD0031" width="40"><br>Angular</td>
+<td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40"><br>Next.js</td>
+<td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="40"><br>TypeScript</td>
+<td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40"><br>Tailwind</td>
+<td align="center"><img src="https://cdn.simpleicons.org/gsap/88CE02" width="40"><br>GSAP</td>
+<td align="center"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="40"><br>Supabase</td>
+</tr>
+</table>
 
 ### Design
 
-<div align="left">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"><br>Figma</td>
+</tr>
+</table>
 
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" height="45" alt="Figma">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="45" height="45" alt="Photoshop">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="45" height="45" alt="Illustrator">
-
-</div>
+**UI/UX Design · Design d'interfaces**
 
 ---
 
-## 🎯 Ce que je fais
+## 🎨 Autres passions
 
-### 💻 Développement web
-
-Je crée des interfaces web modernes avec une attention particulière portée à :
-
-* Architecture Front-End
-* Responsive Design
-* Animations et micro-interactions
-* Performance
-* Expérience utilisateur
-* Interfaces SaaS et applications web
-
-**Stack principale :**
-
-`Angular` · `Next.js` · `TypeScript` · `Tailwind CSS` · `GSAP`
-
-### 🎨 Graphic Design
-
-Je travaille également sur la conception visuelle :
-
-* Identités visuelles
-* Interfaces UI
-* Maquettes
-* Visuels pour le web et les réseaux sociaux
-* Design de produits numériques
-
-**Outil principal :**
-
-`Figma`
+**Blender · Montage vidéo · IA**
 
 ---
 
-## 🌐 Autres passions
+## 💡 Ce que je recherche
 
-En dehors du développement et du graphic design, j'explore également plusieurs domaines créatifs :
-
-* 🧊 **3D** — Blender
-* 🎬 **Montage vidéo**
-* 🎞️ **Motion Design**
-* 🤖 **Expérimentation avec les outils IA**
-* 🎨 Expérimentation visuelle et créative
-
----
-
-## 📌 Ce que j'aime construire
-
-Je m'intéresse particulièrement aux projets qui combinent **design et technologie** :
-
-> Transformer une idée en une expérience digitale claire, moderne et fonctionnelle.
+Je suis ouvert aux **opportunités professionnelles, collaborations et projets** autour du développement web, du UI/UX et de la création de produits digitaux.
 
 ---
 
 <div align="center">
 
-### Design × Code
-
-**Créer. Expérimenter. Construire.**
+**Design × Code**
 
 </div>
-
