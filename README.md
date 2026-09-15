@@ -1,5 +1,3 @@
-# Ndaraw Fall
-
 ### Développeur Front-End · UI/UX Designer
 
 Je suis un développeur Front-End et UI/UX Designer passionné par la création d'interfaces **modernes, intuitives et soignées**.
